@@ -18,7 +18,7 @@ Ive been programming for 15 years, currenlty studying cybersecurity degree in ca
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
----
+
 
 ### ✍️ Blogs & Websites : 
 
@@ -28,7 +28,7 @@ Ive been programming for 15 years, currenlty studying cybersecurity degree in ca
 
 [maxhodl.com](maxhodl.com)
 
-
+---
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
