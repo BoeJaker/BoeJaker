@@ -1,13 +1,12 @@
 <!-- **BoeJaker/BoeJaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<p align="center"><img src="https://komarev.com/ghpvc/?username=BoeJaker&style=flat-square&color=blue" alt=""></p>
 
-<h1 align="center">Welcome! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1>Welcome to BoeJakers github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img align="right" src="https://komarev.com/ghpvc/?username=BoeJaker&style=flat-square&color=blue" alt=""></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :man_technologist: &nbsp;About Me :
 
-Welcome to my github! Im Joe Baker, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+Hey there! Im Joe Baker, a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 Ive been developing software for over 15 years, currenlty studying cybersecurity degree in cambridge. 
 
@@ -15,18 +14,17 @@ Ive been developing software for over 15 years, currenlty studying cybersecurity
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I complete CTFs, ride a motorbike and collect vintage video games.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-boejaker-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boejaker)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
+- 👯 I’m looking to collaborate on AI projects. I've been writing neural networks since 2019.
+- 💬 Please feel free to message me for further details on my work. 
 
 ### ✍️ Blogs & Websites : 
 
-[boejaker..github.io](Portfolio)
 
-[boejaker.com](Boejaker.com)
+[boejaker..github.io](Portfolio) - A digital portfolio where you can find further information about me and my work
 
-[maxhodl.com](maxhodl.com)
+[boejaker.com](Boejaker.com) - A blog where i write about software development, cyber security and tech news
+
+[maxhodl.com](maxhodl.com) - A blog focused on economics and digital currencies
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
