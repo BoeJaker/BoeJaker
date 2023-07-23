@@ -7,7 +7,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-Im Joe Baker, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+Welcome to my github! Im Joe Baker, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 Ive been programming for 15 years, currenlty studying cybersecurity degree in cambridge. 
 
