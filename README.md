@@ -20,6 +20,15 @@ Ive been programming for 15 years, currenlty studying cybersecurity degree in ca
 - 💬 Ask me about ...
 ---
 
+### ✍️ Blogs & Websites : 
+
+[boejaker..github.io](Portfolio)
+
+[boejaker.com](Boejaker.com)
+
+[maxhodl.com](maxhodl.com)
+
+
 ### 🛠 &nbsp;Languages and Tools :
 
 <p>
@@ -58,10 +67,5 @@ Ive been programming for 15 years, currenlty studying cybersecurity degree in ca
 
 ---
 
-### ✍️ Blogs : 
-
-[boejaker.com](Boejaker.com)
-
-[maxhodl.com](maxhodl.com)
 
 
