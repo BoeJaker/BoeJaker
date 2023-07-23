@@ -6,7 +6,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-Hey there! Im Joe Baker, a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+Hey there! Im Joe Baker aka BoeJaker, a full stack developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
 Ive been developing software for over 15 years, currenlty studying cybersecurity degree in cambridge. 
 
@@ -19,12 +19,9 @@ Ive been developing software for over 15 years, currenlty studying cybersecurity
 
 ### ✍️ Blogs & Websites : 
 
-
-[boejaker..github.io](Portfolio) - A digital portfolio where you can find further information about me and my work
-
-[boejaker.com](Boejaker.com) - A blog where i write about software development, cyber security and tech news
-
-[maxhodl.com](maxhodl.com) - A blog focused on economics and digital currencies
+- 📔[boejaker..github.io](Portfolio) - A digital portfolio where you can find further information about me and my work
+- 📃[boejaker.com](Boejaker.com) - A blog where i write about software development, cyber security and tech news
+- 📊[maxhodl.com](maxhodl.com) - A blog focused on economics and digital currencies
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
