@@ -66,8 +66,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### ✍️ Blogs : 
 
-(boejaker.com)[Boejaker.com]
+[boejaker.com](Boejaker.com)
 
-(maxhodl.com)[maxhodl.com]
+[maxhodl.com](maxhodl.com)
 
 
