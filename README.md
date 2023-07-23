@@ -7,9 +7,9 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+Im Joe Baker, a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 
-I am currenlty studying a degree in cybersecurity in cambridge. 
+Ive been programming for 15 years, currenlty studying cybersecurity degree in cambridge. 
 
 - 🔭 I’m working as a software developer for for Max Hodl Ltd
 - 🌱 Exploring Technical Content Writing.
