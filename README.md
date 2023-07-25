@@ -2,7 +2,7 @@
 
 <h1>Welcome to BoeJakers github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img align="right" src="https://komarev.com/ghpvc/?username=BoeJaker&style=flat-square&color=blue" alt=""></h1>
 
-<p align="center"><img src="[header.jpg?raw=true](header.jpg?raw=true)" /></p>
+![Header.jpg](Header.jpg)
 
 ### :man_technologist: &nbsp;About Me :
 
