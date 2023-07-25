@@ -2,7 +2,7 @@
 
 <h1>Welcome to BoeJakers github! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img align="right" src="https://komarev.com/ghpvc/?username=BoeJaker&style=flat-square&color=blue" alt=""></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://raw.githubusercontent.com/BoeJaker/BoeJaker/main/Screenshot%202023-07-25%20201518.jpg)" /></p>
 
 ### :man_technologist: &nbsp;About Me :
 
