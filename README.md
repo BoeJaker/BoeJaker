@@ -56,9 +56,9 @@ Ive been developing software for over 15 years, currenlty studying cybersecurity
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BoeJaker&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BoeJaker&layout=pie&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=BoeJaker&theme=dark&hide_border=true"/>&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoeJaker&layout=pie&theme=dark"/>&nbsp;
 
 ---
 
