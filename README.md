@@ -13,7 +13,7 @@ Ive been developing software for over 15 years, currenlty studying cybersecurity
 - 🔭 I’m working as a software developer for for Max Hodl Ltd
 - 🌱 Exploring Technical Content Writing.
 - ⚡ In my free time I complete CTFs, ride a motorbike and collect vintage video games.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-boejaker-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boejaker)
+- 📫 View my linkedin here: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-boejaker-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boejaker)
 - 👯 I’m looking to collaborate on AI projects. I've been writing neural networks since 2019.
 - 💬 Please feel free to message me for further details on my work. 
 
