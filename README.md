@@ -19,9 +19,9 @@ Ive been developing software for over 15 years, currenlty studying cybersecurity
 
 ### ✍️ Blogs & Websites : 
 
-- 📔[boejaker..github.io](Portfolio) - A digital portfolio where you can find further information about me and my work
-- 📃[boejaker.com](Boejaker.com) - A blog where i write about software development, cyber security and tech news
-- 📊[maxhodl.com](maxhodl.com) - A blog focused on economics and digital currencies
+- 📔[boejaker..github.io](http:boejaker.github.io) - A digital portfolio where you can find further information about me and my work
+- 📃[boejaker.com](http://Boejaker.com) - A blog where i write about software development, cyber security and tech news
+- 📊[maxhodl.com](http://maxhodl.com) - A blog focused on economics and digital currencies
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
