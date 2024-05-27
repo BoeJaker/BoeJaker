@@ -10,7 +10,6 @@ Hey there! Im Joe Baker aka BoeJaker, a full stack developer <img src="https://m
 
 Ive been developing software for over 15 years, im currenlty studying cybersecurity degree in cambridge. 
 
-- 📫 View my linkedin here: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-boejaker-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boejaker)
 - 🌱 Exploring novel applications of neural networks and perceptrons
 - 🐳 Working on a docker stack for  penetration testing.
 - 🚩 In my free time I complete CTFs, ride a motorbike and collect vintage video games.
@@ -22,6 +21,7 @@ Ive been developing software for over 15 years, im currenlty studying cybersecur
 - 📔[boejaker..github.io](http:boejaker.github.io) - A digital portfolio where you can find further information about me and my work
 - 📃[boejaker.com](http://Boejaker.com) - A blog where i write about software development, cyber security and tech news
 - 📊[maxhodl.com](http://maxhodl.com) - A blog focused on economics and digital currencies
+- 📫 View my linkedin here: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-boejaker-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/boejaker)
 
 ---
 ### 🛠 &nbsp;Languages and Tools :
